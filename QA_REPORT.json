@@ -1,0 +1,45 @@
+{
+  "name": "AIN Кібербезпека 2026",
+  "mapTiles": [
+    100,
+    60
+  ],
+  "tileSizePx": 32,
+  "visualSeatingApproximation": "200+ illustrated seats; player seating not implemented",
+  "spawnTiles": 48,
+  "walkableCells": 3422,
+  "reachableFromSpawn": 3365,
+  "sampledWidthsInTiles": {
+    "main entrance width tiles": 18,
+    "auditorium center aisle width tiles": 6,
+    "left sponsor gallery": 4,
+    "right sponsor gallery": 3,
+    "west monument bypass": 6,
+    "east monument bypass": 7
+  },
+  "reachableAreas": {
+    "Сцена — центральні сходи": true,
+    "Глядацький прохід — центр": true,
+    "Глядацький прохід — захід": true,
+    "Глядацький прохід — схід": true,
+    "AIN — обхід ліворуч": true,
+    "AIN — обхід праворуч": true,
+    "ROZETKA": true,
+    "monobank": true,
+    "Ajax Systems": true,
+    "MacPaw": true,
+    "Нова пошта": true,
+    "Uklon": true,
+    "Київстар": true,
+    "Дія": true,
+    "Нетворкінг — верхній лівий": true,
+    "Нетворкінг — верхній правий": true,
+    "Нетворкінг — нижній лівий": true,
+    "Нетворкінг — нижній правий": true,
+    "Лаунж верхній лівий": true,
+    "Лаунж верхній правий": true
+  },
+  "runtimeTestedInWorkAdventure": false,
+  "loadTested200": false,
+  "brandROZETKA": "faithful vector recreation, not original approved SVG"
+}
